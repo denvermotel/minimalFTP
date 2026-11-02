@@ -1,0 +1,24 @@
+# Istruzioni per gli agenti AI: locali, non pubblicate
+/AGENTS.md
+/CLAUDE.md
+
+# Documenti di lavoro (spec, piani, note, dati reali): locali, non pubblicati
+/dev/
+
+# Scratch di superpowers e worktree isolati
+.superpowers/
+.worktrees/
+
+# Configurazione locale di Claude Code
+/.claude/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Stack Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
